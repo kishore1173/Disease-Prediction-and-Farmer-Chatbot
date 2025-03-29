@@ -57,5 +57,4 @@ Acknowledgments
 License
 This project is licensed under the MIT License.
 
-Developed by Kishore M 
-![image](https://github.com/user-attachments/assets/1a000eba-d293-4ea1-814a-701a9bd5707c)
+Developed by Kishore M  
